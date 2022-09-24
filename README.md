@@ -1,4 +1,4 @@
-# MEGADOCK-on-Colab:
+# MEGADOCK-on-Colab
 This repository provides a jupyter notebook file to run MEGADOCK on the Google Colaboratory environment.  
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ohuelab/MEGADOCK-on-Colab/blob/main/MEGADOCK_on_Colab.ipynb)
 
