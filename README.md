@@ -1,7 +1,11 @@
 # MEGADOCK-on-Colab
 This repository provides a jupyter notebook file to run MEGADOCK on the Google Colaboratory environment.  
-Try to use! → [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ohuelab/MEGADOCK-on-Colab/blob/main/MEGADOCK_on_Colab.ipynb)  
-(Code: https://github.com/ohuelab/MEGADOCK-on-Colab/blob/main/MEGADOCK_on_Colab.ipynb)
+Try to use!  
+* PDB ID version [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ohuelab/MEGADOCK-on-Colab/blob/main/MEGADOCK_on_Colab.ipynb)  
+(Code: [MEGADOCK_on_Colab.ipynb](https://github.com/ohuelab/MEGADOCK-on-Colab/blob/main/MEGADOCK_on_Colab.ipynb))
+* PDB file upload version [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ohuelab/MEGADOCK-on-Colab/blob/main/MEGADOCK_on_Colab_myPDB.ipynb)  
+(Code: [MEGADOCK_on_Colab_myPDB.ipynb](https://github.com/ohuelab/MEGADOCK-on-Colab/blob/main/MEGADOCK_on_Colab_myPDB.ipynb))
+
 
 <kbd><img src="https://github.com/ohuelab/MEGADOCK-on-Colab/blob/main/ss1.png" width="800"></kbd>
 
