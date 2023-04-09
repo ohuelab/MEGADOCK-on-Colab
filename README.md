@@ -7,9 +7,9 @@ Try to use!
 (Code: [MEGADOCK_on_Colab_myPDB.ipynb](https://github.com/ohuelab/MEGADOCK-on-Colab/blob/main/MEGADOCK_on_Colab_myPDB.ipynb))
 
 
-<kbd><img src="https://github.com/ohuelab/MEGADOCK-on-Colab/blob/main/ss1.png" width="800"></kbd>
+<kbd><img src="https://github.com/ohuelab/MEGADOCK-on-Colab/blob/main/s1.png" width="800"></kbd>
 
-<kbd><img src="https://github.com/ohuelab/MEGADOCK-on-Colab/blob/main/ss2.png" width="800"></kbd>
+<kbd><img src="https://github.com/ohuelab/MEGADOCK-on-Colab/blob/main/s2.png" width="800"></kbd>
 
 MEGADOCK is an protein-protein docking/interaction prediction software using FFT-grid-based docking.  
 
