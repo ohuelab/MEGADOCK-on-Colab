@@ -22,4 +22,4 @@ MEGADOCK is an protein-protein docking/interaction prediction software using FFT
 
 ## License
 [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)  
-MEGADOCK and MEGADOCK-on-Colab are licensed by CC BY-NC 4.0. These software and derivatives are NOT allowed for any commercial use without formal prior authorization by Tokyo Institute of Technology. Please contact us about commercial use. If you are considering commercial use, please contact us as there are different charged use options licensed by Tokyo Institute of Technology.
+MEGADOCK and MEGADOCK-on-Colab are licensed by CC BY-NC 4.0. These software and derivatives are NOT allowed for any commercial use without formal prior authorization. Please contact us about commercial use. If you are considering commercial use, please contact us as there are differently charged use options licensed by [Ahead Biocomputing, Co. Ltd.](https://ahead-biocomputing.co.jp/en/), a private company as a Tokyo Tech Venture.
