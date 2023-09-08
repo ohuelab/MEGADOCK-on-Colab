@@ -17,7 +17,7 @@ MEGADOCK is an protein-protein docking/interaction prediction software using FFT
 * Masahito Ohue, Ph.D. (Assistant Professor, Tokyo Institute of Technology)
 
 ## Reference
-* Ohue M. MEGADOCK-on-Colab: an easy-to-use protein-protein docking tool on Google Colaboratory. Jxiv preprint, jxiv.374, 2023. https://doi.org/10.51094/jxiv.374
+* Ohue M. MEGADOCK-on-Colab: an easy-to-use protein-protein docking tool on Google Colaboratory. BMC Research Notes (accepted). Jxiv preprint, jxiv.374, 2023. https://doi.org/10.51094/jxiv.374
 * MEGADOCK software: https://github.com/akiyamalab/MEGADOCK
 
 ## License
